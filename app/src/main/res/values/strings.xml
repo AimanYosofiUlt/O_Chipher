@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">O_Cipher</string>
+    <string name="t">T</string>
+    <string name="c">O</string>
+    <string name="encrypt">ENCRYPT</string>
+    <string name="decrypt">DECRYPT</string>
+    <string name="wrote_something">write something...</string>
+    <string name="ooo">OΟО</string>
+    <string name="info">This application is for encrypt and decrypt via O_C encryption method\n\nthis method offered by</string>
+</resources>
